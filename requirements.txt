@@ -1,0 +1,8 @@
+# Python 3.12
+opencv-python>=4.8
+numpy>=1.26
+scipy>=1.11
+scikit-image>=0.22
+pandas>=2.0
+# AI solution only
+ultralytics==8.4.202

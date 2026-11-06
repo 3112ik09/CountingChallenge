@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Challenge data (not stored in git)
+ScrewAndBolt_20240713/
+Screws_2024_07_15/
+
+# Generated AI training files
+AI/datasets/
+AI/labels_*/
+AI/runs/
